@@ -1,0 +1,3 @@
+Python Script to Receive wireless control from bluepad32 Esp32 and then sends it to Pi 5 through LAN TCP.
+Python Script to Receive live feed video from Pi 5 LAN UDP and display it using Tkinker or PyQT.
+Python Script to Receive telemetry from Pi 5 LAN TCP and display it using Tkinter or PyQT.

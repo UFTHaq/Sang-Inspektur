@@ -1,0 +1,3 @@
+Receive robot control from Pi 5 via this Esp32S3 wifi AP via TCP.
+Control all the robot actuators and sensors.
+Transmit telemetry data to Pi 5 via this Esp32S3 wifi AP via TCP.

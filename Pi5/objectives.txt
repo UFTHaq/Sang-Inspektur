@@ -1,0 +1,5 @@
+Python Script to Receive data control from PC via LAN TCP and sends to Esp32S3 via TCP wifi AP.
+Python Script to Receive data telemetry from Esp32S3 and sends to PC via TCP LAN.
+Python Script to sends Live Feed Webcam 1080p25fps
+Python Script to sends Live Feed pi camera v1.3 640x480p or 1280x720p 25fps.
+Python Script to autostart the pi 5 codes to be ready as robot not as Pi 5 anymore.
