@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution and build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE-specific files (e.g., VS Code, PyCharm)
+.vscode/
+.idea/
