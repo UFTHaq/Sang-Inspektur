@@ -1,6 +1,7 @@
 import socket
 
-HOST = "10.20.0.1"
+# HOST = "0.0.0.0" # all connection
+HOST = "10.20.0.2" # pi5 ip ethernet static
 PORT = 5000
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
